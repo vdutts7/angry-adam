@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vdutts7/dump/main/assets/angry-adam-logo.png" alt="Logo" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/vdutts7/dump/main/assets/angryadam-logo.png" alt="Logo" width="80" height="80">
   <h3 align="center">Angry Adam</h3>
   <p align="center">
     Designed to be angry.
