@@ -5,8 +5,7 @@
   <h3 align="center">Angry Adam</h3>
   <p align="center">
     Designed to be angry.
-    <a href=""><strong>Explore the docs »</strong></a>
-
+    
   </p>
 </div>
 
@@ -31,10 +30,11 @@
 <!-- ABOUT -->
 ## About
 
-▇▇▇▇▇▇▇▇▇▇▇▇
+Chat interface to mimic and visualize an AI chatbot's "cognition": the ability to pause, recount one's behaviors, and honestly introspect on personal choices.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Experiment focused on repeated dialogue-based interactions with an AI personality (Adam) designed to be "angry".
 
+Adam's thoughts are streamed publicly, displaying the continuous flow of thoughts he has before, during, and after every message he or the user sends.
 
 ## Tools/Skills Used
 
@@ -46,26 +46,11 @@
 * [![OpenAI GPT-3.5][OpenAI]][OpenAI-url]
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- CONTACT -->
 ## Contact
 
-<u>me @ vdutts7.com</u>
-
-Project Link: [https://github.com/vdutts7](https://github.com/vdutts7)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<u>me @ vd7.io</u>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
